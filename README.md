@@ -3,7 +3,7 @@
 
 <!----------------------------------- About Section ------------------------------------>
 <div>
-  <img align="right" width="150" alt="Coding" src="[https://raw.githubusercontent.com/geekyshow1/geekyshow1/main/rajp.png](https://avatars.githubusercontent.com/u/71833197?v=4)">
+  <img align="right" width="150" alt="Coding" src="https://avatars.githubusercontent.com/u/71833197?v=4">
 
   <h3>Hi, I'm Rahul Kumar Roy</h3>
   <p>I am Full Stack Web Developer. I am also an Educator. I teach on
