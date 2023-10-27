@@ -3,12 +3,10 @@
 
 <!----------------------------------- About Section ------------------------------------>
 <div>
-  <img align="right" width="150" alt="Coding" src="https://raw.githubusercontent.com/geekyshow1/geekyshow1/main/rajp.png">
-  <a href="https://github.com/geekyshow1?tab=followers">
-     <img align="right" src="[https://img.shields.io/github/followers/geekyshow1?label=Followers&style=social](https://avatars.githubusercontent.com/u/71833197?v=4)" alt="followers-count">
-  </a>
-  <h3>Hi, I'm Rajesh Kumar</h3>
-  <p>I am Full Stack Web and Android App Developer. I am also an Educator. I teach on
+  <img align="right" width="150" alt="Coding" src="[https://raw.githubusercontent.com/geekyshow1/geekyshow1/main/rajp.png](https://avatars.githubusercontent.com/u/71833197?v=4)">
+
+  <h3>Hi, I'm Rahul Kumar Roy</h3>
+  <p>I am Full Stack Web Developer. I am also an Educator. I teach on
     <a href="https://www.youtube.com/c/protechrahul">
        Youtube
     </a> having 5000+ Subscribers.
