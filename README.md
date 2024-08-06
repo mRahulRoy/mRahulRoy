@@ -1,6 +1,3 @@
-<!----------------------------------- Banner - GeekyShows ------------------------------------>
-
-
 <!----------------------------------- About Section ------------------------------------>
 <div>
 <!--   <img align="right" width="150" alt="Coding" src="https://avatars.githubusercontent.com/u/71833197?v=4"> -->
