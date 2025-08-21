@@ -113,35 +113,11 @@ const rahulRoy = {
 
 ## 🎯 Current Focus
 
-- 🌱 Currently mastering **Advanced React Patterns** and **System Design**
+- 🌱 Currently mastering **Advanced React Patterns** and **System Design** and **Node Js**
 - 🔥 Building **AI-powered web applications** with modern frameworks
 - 📚 Creating educational content on **YouTube** for aspiring developers
 - 🤝 Looking to collaborate on **open source projects** and **innovative startups**
 
-## 🌟 Achievements & Impact
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/external-flat-juicy-fish/96/external-web-development-coding-and-development-flat-flat-juicy-fish.png" width="60"/>
-<br><strong>80+</strong><br>Screens Built
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/performance.png" width="60"/>
-<br><strong>45%</strong><br>Speed Improvement
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/youtube-play.png" width="60"/>
-<br><strong>5000+</strong><br>YouTube Subscribers
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/time-management.png" width="60"/>
-<br><strong>60%</strong><br>Time Reduction
-</td>
-</tr>
-</table>
-</div>
 
 ## 📫 Let's Connect!
 
