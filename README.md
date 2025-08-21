@@ -82,32 +82,6 @@ const rahulRoy = {
 <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="websockets" />
 </p>
 
-## 🏆 Featured Projects
-
-### 🔍 LitReg - Regulatory Intelligence Platform
-**Tech Stack**: Next.js, Redux, TypeScript, Tailwind CSS, React Flow
-
-- 📁 Google Drive-like file and folder management system
-- 🔄 Real-time document rendering and modal previews
-- 📊 Interactive data visualization using React Flow for legal entity mapping
-- 🎯 Specialized for SEBI, RBI, and SAT regulatory analysis
-
-### 🎫 Astrix - Event Ticketing Platform
-**Tech Stack**: React.js, Next.js, TypeScript, Tailwind CSS
-
-- 💳 Integrated multiple payment gateways (Razorpay, Cashfree)
-- 📈 45% improvement in checkout speed, 30% reduction in payment failures
-- 📊 Comprehensive analytics dashboard with charting libraries
-- 🎮 XP-based rewards system for enhanced user engagement
-
-### 🏢 Merchant Aboard System - Digital KYC Platform
-**Tech Stack**: React.js, Node.js, MongoDB, GridFS
-
-- 🚀 60% reduction in document processing time through automation
-- 🔐 Secure file upload and storage with MongoDB GridFS
-- 👥 Role-based access controls and real-time dashboard visibility
-- 📋 Dynamic forms with comprehensive validation systems
-
 ## 📊 GitHub Analytics
 
 <div align="center">
