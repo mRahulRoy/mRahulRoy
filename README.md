@@ -21,22 +21,21 @@
 - 🎓 Bachelor's in Computer Application (CGPA: 8.5) from Dronacharya Government College
 - 📍 Based in Gurugram, Haryana, India
 
-## 💼 Professional Experience
+## ✨ What I Do
 
-### 🏢 WASSERSTOFF RJ INNOVATIONS PRIVATE LIMITED
-**Frontend Developer** | *May 2024 – Present*
+<div align="center">
 
-- **LitReg Platform**: Built regulatory intelligence platform using Next.js, Redux, TypeScript, and Tailwind
-- **File Management**: Engineered Google Drive-like system with drag-and-drop uploads and real-time document rendering
-- **Astrix Platform**: Developed event ticketing platform with 80+ screens, dynamic ticket purchasing, and XP rewards
-- **API Integration**: Seamlessly integrated RESTful APIs for enhanced platform functionality
+```javascript
+const rahulRoy = {
+    currentRole: "Frontend Developer @ WASSERSTOFF RJ INNOVATIONS",
+    expertise: ["React", "Next.js", "TypeScript", "Node.js"],
+    passions: ["Building scalable web apps", "Teaching on YouTube", "Problem solving"],
+    currentlyWorking: "Regulatory Intelligence & Event Ticketing Platforms",
+    funFact: "I've built 80+ screens and helped 5000+ developers learn! 🚀"
+};
+```
 
-### 🏢 SKYWALK TECHNOLOGIES PVT LTD
-**Software Developer** | *August 2022 – March 2024*
-
-- **Dual Platform**: Built Abacus Quiz module and KYC Onboarding System using React.js, Node.js, MongoDB
-- **Performance Analytics**: Implemented 100-question mock tests with detailed performance tracking
-- **Payment Integration**: Developed seamless KYC document collection system for payment aggregators
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -109,15 +108,32 @@
 - 👥 Role-based access controls and real-time dashboard visibility
 - 📋 Dynamic forms with comprehensive validation systems
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<table>
+<tr>
+<td width="50%">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&theme=tokyonight&hide_border=true&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=rahulroy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true" alt="GitHub Stats" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true)
+</td>
+<td width="50%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulroy&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulroy&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&layout=compact&langs_count=8" alt="Top Languages" />
+
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulroy&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
 
 </div>
 
@@ -128,29 +144,65 @@
 - 📚 Creating educational content on **YouTube** for aspiring developers
 - 🤝 Looking to collaborate on **open source projects** and **innovative startups**
 
-## 💡 Fun Facts
+## 🌟 Achievements & Impact
 
-- 📺 YouTube creator with **5000+ subscribers** sharing tech knowledge
-- ⚡ Improved checkout processes by **45%** through payment optimization
-- 🏗️ Built **80+ responsive screens** for complex web applications
-- 🎨 Passionate about creating intuitive user experiences with modern design
+<div align="center">
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/external-flat-juicy-fish/96/external-web-development-coding-and-development-flat-flat-juicy-fish.png" width="60"/>
+<br><strong>80+</strong><br>Screens Built
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/performance.png" width="60"/>
+<br><strong>45%</strong><br>Speed Improvement
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/youtube-play.png" width="60"/>
+<br><strong>5000+</strong><br>YouTube Subscribers
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/time-management.png" width="60"/>
+<br><strong>60%</strong><br>Time Reduction
+</td>
+</tr>
+</table>
+</div>
 
 ## 📫 Let's Connect!
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-rahulroy177602%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulroy177602@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B91--8076880526-green?style=for-the-badge&logo=phone&logoColor=white)](tel:+918076880526)
-[![Location](https://img.shields.io/badge/Location-Gurugram,%20Haryana-blue?style=for-the-badge&logo=location&logoColor=white)]()
+<a href="mailto:rahulroy177602@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
+<a href="https://linkedin.com/in/your-profile">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/your-username">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://leetcode.com/your-profile">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+
+<a href="https://www.youtube.com/c/protechrahul">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
 
 </div>
 
 ---
 
 <div align="center">
-  
-*"Code is like humor. When you have to explain it, it's bad."* - Cory House
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=brightgreen&style=for-the-badge)
+### 💭 *"First, solve the problem. Then, write the code."* – John Johnson
+
+<img src="https://komarev.com/ghpvc/?username=rahulroy&color=F85D7F&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&pause=1000&color=F85D7F&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+⭐+Star+some+repos+if+you+found+them+interesting!" alt="Footer" />
 
 </div>
